@@ -16,7 +16,7 @@ const Navbar = () => {
           <div>
             <ul className="flex space-x-6">
               <li>
-                <a href="/">Inicio</a>
+                <Link href="/">Inicio</Link>
               </li>
               <li>
                 <Link href="/">
